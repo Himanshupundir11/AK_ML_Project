@@ -1,6 +1,6 @@
-# 🔬 AK_ML_Project — ML Model for Cancer Classification
+# 🔬 AI_ML_Project — ML Model for Cancer Classification
 
-Welcome to the **AK_ML_Project**, a machine learning-based classification project designed to explore predictive modeling in a biomedical context. This project applies key ML workflows on health-related datasets and demonstrates an end-to-end pipeline—from data preprocessing to model evaluation.
+Welcome to the **AI_ML_Project**, a machine learning-based classification project designed to explore predictive modeling in a biomedical context. This project applies key ML workflows on health-related datasets and demonstrates an end-to-end pipeline—from data preprocessing to model evaluation.
 
 ---
 
@@ -41,7 +41,4 @@ Welcome to the **AK_ML_Project**, a machine learning-based classification projec
    - Accuracy, precision, recall, F1-score
    - Confusion matrix and ROC-AUC analysis
 
----
-
-## 📁 Folder Structure
 
